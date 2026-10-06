@@ -1,0 +1,1 @@
+package com.nyayasetu.backend.repository;
